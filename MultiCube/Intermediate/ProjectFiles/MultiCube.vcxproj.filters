@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MultiCube.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{32BF68FF-CB12-486B-9681-317584C51F22}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiCube.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MultiCubeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{321EF866-9ED3-4711-80E7-8148CBA841A5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MultiCube">
+      <UniqueIdentifier>{7569AE81-9110-4381-B690-E72FECDC19C5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiCube\MultiCube.Build.cs">
+      <Filter>Source\MultiCube</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MultiCube\MultiCube.cpp">
+      <Filter>Source\MultiCube</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiCube\MultiCube.h">
+      <Filter>Source\MultiCube</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiCube\MultiCubeCharacter.cpp">
+      <Filter>Source\MultiCube</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiCube\MultiCubeCharacter.h">
+      <Filter>Source\MultiCube</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiCube\MultiCubeGameMode.cpp">
+      <Filter>Source\MultiCube</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiCube\MultiCubeGameMode.h">
+      <Filter>Source\MultiCube</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

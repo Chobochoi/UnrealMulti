@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultiCube",
+			"Path": "E:\\Unreal4.26\\MultiCube\\Source\\MultiCube.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiCubeEditor",
+			"Path": "E:\\Unreal4.26\\MultiCube\\Source\\MultiCubeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

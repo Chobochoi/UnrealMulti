@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal4.26\\MultiCube\\Source\\MultiCube\\MultiCube.Build.cs",
+		"E:\\Unreal4.26\\MultiCube\\Source\\MultiCube.Target.cs",
+		"E:\\Unreal4.26\\MultiCube\\Source\\MultiCubeEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
